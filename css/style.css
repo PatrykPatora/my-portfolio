@@ -1,0 +1,19 @@
+#bg-img {
+  background-image: url('images/landscape.jpg');
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: auto;
+  opacity: 0.9;
+}
+  
+  .icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+  }
+
+  #fs-2{
+    text-align: justify;
+    text-justify: inter-word;
+  }
